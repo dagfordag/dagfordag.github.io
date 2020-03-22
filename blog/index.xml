@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogg on Introduktion</title>
+    <link>http://dagfordag.se/blog/</link>
+    <description>Recent content in Blogg on Introduktion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Sun, 22 Mar 2020 19:32:33 +0100</lastBuildDate>
+    
+	<atom:link href="http://dagfordag.se/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Årsmöte 2020</title>
+      <link>http://dagfordag.se/blog/arsmate-2020/</link>
+      <pubDate>Sun, 22 Mar 2020 19:32:33 +0100</pubDate>
+      
+      <guid>http://dagfordag.se/blog/arsmate-2020/</guid>
+      <description>Föreningen kommer hålla årsmöte den 29 mars 2020. (Mer information kommer inom kort.)</description>
+    </item>
+    
+  </channel>
+</rss>

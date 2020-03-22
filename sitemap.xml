@@ -1,5 +1,24 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-<loc>https://dagfordag.se/</loc>
-</url>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://dagfordag.se/blog/</loc>
+    <lastmod>2020-03-22T19:32:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dagfordag.se/</loc>
+    <lastmod>2020-03-22T19:32:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dagfordag.se/blog/arsmate-2020/</loc>
+    <lastmod>2020-03-22T19:32:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dagfordag.se/tags/</loc>
+  </url>
+  
 </urlset>
