@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Introduktion</title>
-    <link>http://dagfordag.se/tags/</link>
-    <description>Recent content in Tags on Introduktion</description>
+    <title>Tags on Dag för dag</title>
+    <link>https://dagfordag.se/tags/</link>
+    <description>Recent content in Tags on Dag för dag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     
-	<atom:link href="http://dagfordag.se/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dagfordag.se/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

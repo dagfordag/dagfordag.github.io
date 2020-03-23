@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogg on Introduktion</title>
-    <link>http://dagfordag.se/blog/</link>
-    <description>Recent content in Blogg on Introduktion</description>
+    <title>Blogg on Dag för dag</title>
+    <link>https://dagfordag.se/blog/</link>
+    <description>Recent content in Blogg on Dag för dag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 22 Mar 2020 19:32:33 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2020 20:30:00 +0100</lastBuildDate>
     
-	<atom:link href="http://dagfordag.se/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dagfordag.se/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Årsmöte 2020</title>
-      <link>http://dagfordag.se/blog/arsmate-2020/</link>
-      <pubDate>Sun, 22 Mar 2020 19:32:33 +0100</pubDate>
+      <link>https://dagfordag.se/blogg/%C3%A5rsm%C3%B6te-2020/</link>
+      <pubDate>Mon, 23 Mar 2020 20:30:00 +0100</pubDate>
       
-      <guid>http://dagfordag.se/blog/arsmate-2020/</guid>
-      <description>Föreningen kommer hålla årsmöte den 29 mars 2020. (Mer information kommer inom kort.)</description>
+      <guid>https://dagfordag.se/blogg/%C3%A5rsm%C3%B6te-2020/</guid>
+      <description>På grund av det rådande Corona-läget kommer Föreningen Dag för dags årsmöte 2020 att hållas digitalt. För att alla som vill ska kunna vara med på mötet online kommer vi att lägga upp en länk här nedan strax innan mötet börjar. Följ instruktionerna så kommer du till årsmötet.
+Hjärtligt välkomna!
+// Styrelsen föreningen Dag för dag
+När: Söndagen 29 mars kl. 14.00
+För att vara med på årsmötet:
+Klicka på denna länk: &amp;lt;Här kommer vi att lägga en länk en liten stund innan årsmötet börjar&amp;gt;</description>
     </item>
     
   </channel>
